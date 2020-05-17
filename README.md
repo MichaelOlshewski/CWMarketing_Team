@@ -1,2 +1,2 @@
-# *__CWMarketing_Team__*
+# ___CWMarketing_Team___
 Marketing Team website for Case Western Bootcamp
