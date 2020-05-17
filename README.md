@@ -7,7 +7,7 @@ The purpose of this project was to be in the place of either a front-end web dev
 
 
 ### __Process I Used to Edit HTML__
-The website was originally developed using div tags for almost all elements, including the header, footer and sections. The header was originally `<div class="header"></div>` with the css `.header {}`, I changed that over to `<header></header>` and changed the css to `header {}`. I repeated that same process for other `<div>` tags in the file, such as ones with body content and the side contents. I moved the body content to a `<section></section>` and the side content to an `<aside></aside>`. The HTML files also did not have proper file references for the css and image files, they all started with a `./assets/css/style.css` or `./assets/images/ImgName.jpg`
+The website was originally developed using div tags for almost all elements, including the header, footer and sections. The header was originally `<div class="header"></div>` with the css `.header {}`, I changed that over to `<header></header>` and changed the css to `header {}`. I repeated that same process for other `<div>` tags in the file, such as ones with body content and the side contents. I moved the body content to a `<section></section>` and the side content to an `<aside></aside>`. The HTML files also did not have proper file references for the css and image files, they all started with a `./assets/css/style.css` or `./assets/images/ImgName.jpg` and I changed them to `assets/css/styles.css` or `assets/images/ImgName.jpg`.
 
 
 ### __Process I Used to Edit CSS__
