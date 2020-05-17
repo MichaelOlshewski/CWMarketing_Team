@@ -1,2 +1,2 @@
-# ___CWMarketing_Team___
+# ___Horiseon Social Solution Services___
 Marketing Team website for Case Western Bootcamp
