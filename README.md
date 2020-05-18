@@ -9,7 +9,7 @@ The purpose of this project was to be in the place of either a front-end web dev
 ## Changes to HTML
 Changed `<div class="header"></div>` to `<header></header>`
 Changed the `<div></div>` used for navigation to `<nav></nav>`
-Changed `<div class="hero"></div>` to:
+Changed `<div class="hero"></div>` to: `<figure><img src="" class="hero" alt="" /></figure>`
 ```
 <figure>
     <img src="assets/images/digital-marketing-meeting.jpg" class="hero" alt="Picture of a meeting with our Digital Marketing Team">
