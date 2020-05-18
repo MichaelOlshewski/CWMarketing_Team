@@ -27,4 +27,6 @@ Combined multiple classes with the same styles to one, such as:
     color: #ffffff;
 }
 ```
-I continued that througout the whole CSS document. <br>
+I continued that througout the whole CSS document for other classes with the same declarations. <br>
+
+I also changed the corresponding classes such as `.header` or `.footer` to `header` and `footer`
