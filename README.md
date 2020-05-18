@@ -17,3 +17,13 @@ Changed `<div class="footer"></div>` to `<footer></footer>`. <br>
 
 
 ## Changes to CSS
+
+Combined multiple classes with the same styles to one, such as:
+```
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
+
+}
+```
+I continued that througout the whole CSS document. <br>
