@@ -10,9 +10,11 @@ The purpose of this project was to be in the place of either a front-end web dev
 Changed `<div class="header"></div>` to `<header></header>`. <br>
 Changed the `<div></div>` used for navigation to `<nav></nav>`. <br>
 Changed `<div class="hero"></div>` to: `<figure><img src="" class="hero" alt="" /></figure>`. <br>
-Changed `<div class="content"></div>` to `<section class="content"</section>`. <br>
+Changed `<div class="content"></div>` to `<main class="content"></main>`. <br>
+Changed other `<div></div>`'s to `<section></section>`. <br>
 Changed `<div class="content"></div>` to `<aside class="benefits"></aside>`. <br>
 Changed `<div class="footer"></div>` to `<footer></footer>`. <br>
+
 
 
 
