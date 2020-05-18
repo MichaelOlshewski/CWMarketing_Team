@@ -29,4 +29,4 @@ Combined multiple classes with the same styles to one, such as:
 ```
 I continued that througout the whole CSS document for other classes with the same declarations. <br>
 
-I also changed the corresponding classes such as `.header` or `.footer` to `header` and `footer`
+I also changed the corresponding classes such as `.header` or `.footer` to `header` and `footer` to work with the previous div that were changed over to semantic HTML
