@@ -23,7 +23,8 @@ Combined multiple classes with the same styles to one, such as:
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
-
+    margin-bottom: 32px;
+    color: #ffffff;
 }
 ```
 I continued that througout the whole CSS document. <br>
