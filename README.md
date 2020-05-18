@@ -10,7 +10,8 @@ The purpose of this project was to be in the place of either a front-end web dev
 Changed `<div class="header"></div>` to `<header></header>`. <br>
 Changed the `<div></div>` used for navigation to `<nav></nav>`. <br>
 Changed `<div class="hero"></div>` to: `<figure><img src="" class="hero" alt="" /></figure>`. <br>
-Changed `<div class="content"></div>` to `<main class="content"></main>`. <br>
+Added `<main></main>` to inform browser there is a main content area. <br>
+Changed `<div class="content"></div>` to `<section class="content"></section>`. <br>
 Changed other `<div></div>`'s to `<section></section>`'s. <br>
 Changed `<div class="content"></div>` to `<aside class="benefits"></aside>`. <br>
 Changed `<div class="footer"></div>` to `<footer></footer>`. <br>
@@ -31,4 +32,4 @@ Combined multiple classes with the same styles to one, such as:
 ```
 I continued that througout the whole CSS document for other classes with the same declarations. <br>
 
-I also changed the corresponding classes such as `.header` or `.footer` to `header` and `footer` to work with the previous `<div>`'s that were changed over to semantic HTML
+I also changed the corresponding classes such as `.header` or `.footer` to `header` and `footer` to work with the previous `<div>`'s that were changed over to semantic HTML.
